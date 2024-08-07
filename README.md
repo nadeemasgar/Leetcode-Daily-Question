@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/1019-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0011-container-with-most-water) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -40,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0283-move-zeroes) |
 | [0961-long-pressed-name](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0961-long-pressed-name) |
