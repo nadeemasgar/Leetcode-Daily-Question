@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/1019-squares-of-a-sorted-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0283-move-zeroes) |
 | [0961-long-pressed-name](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
