@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/1019-squares-of-a-sorted-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -37,4 +38,9 @@
 |  |
 | ------- |
 | [0961-long-pressed-name](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0961-long-pressed-name) |
+| [1019-squares-of-a-sorted-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
