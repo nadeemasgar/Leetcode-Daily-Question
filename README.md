@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0283-move-zeroes) |
+| [0921-spiral-matrix-iii](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/1019-squares-of-a-sorted-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/nadeemasgar/Leetcode-Daily-Question/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
